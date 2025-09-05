@@ -67,6 +67,7 @@ h2{
 }
 body{
     background-color: rgb(189, 223, 223);
+    width: 390px;
 }
 #main{
     display: block;
